@@ -1,3 +1,6 @@
+A passionate React.js developer with expertise in front-end technologies like HTML,CSS, and javascript. Always eager to learn and take on new challenges in the tech world.
+
+
 - 👋 Hi, I’m @DivagarS
 - 👀 I’m interested in Development
 - 🌱 I’m currently learning Mern Stack Development
